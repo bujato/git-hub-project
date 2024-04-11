@@ -1,6 +1,6 @@
 ## Project GitHub
 
-Coloque um user do git hub e aparecerá: 
+Coloque um user do GitHub e aparecerá: 
 
 -Foto <br>
 -Nome <br>
